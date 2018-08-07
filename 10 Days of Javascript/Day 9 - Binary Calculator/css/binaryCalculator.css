@@ -1,0 +1,52 @@
+
+.bodyClass
+{
+    width: 33%;
+    margin: 0;
+    padding: 0;
+}
+.buttonContainer 
+{
+    width: 100%;
+}
+.resClass 
+{
+    background-color: lightgray;
+    border: solid;
+    width: 100%;
+    height: 48px;
+    font-size: 20px;
+}
+.buttonContainer > .btn0_btn1
+{
+    background-color: lightgreen;
+    color: brown;
+    width: 25%;
+    height: 36x;
+    font-size: 18x;
+    margin: 0px;
+    padding: 0px;
+    float: left;
+}
+.buttonContainer > .btnClr_btnEql
+{
+    background-color: darkgreen;
+    color: white;
+    width: 25%;
+    height: 36x;
+    font-size: 18x;
+    margin: 0px;
+    padding: 0px;
+    float: left;
+}
+.buttonContainer > .btnSum_btnSub_btnMul_btnDiv
+{
+    background-color: black
+    color: red;
+    width: 25%;
+    height: 36x;
+    font-size: 18x;
+    margin: 0px;
+    padding: 0px;
+    float: left;
+}
